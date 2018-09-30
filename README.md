@@ -1,5 +1,7 @@
 # SaliensStop
 
+SCRIT FOR 2018 STEAM SUMMER SALIES GAME EVENT
+
 ----
 # Usage
 
